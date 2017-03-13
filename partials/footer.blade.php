@@ -1,0 +1,22 @@
+<div class="container-fluid gsu-background-color text-center gsu-footer">
+
+       <div class="footer-logo"><span><img src="http://technology.gsu.edu/wp-content/themes/gsu-core/img/logo-footer.png" alt="Georgia State University"></span></div>
+	   <div class="footer-social">
+	     <a href="http://facebook.com/GSUTechnology" target="_blank"><span class="footer-facebook"></span></a>
+	     <a href="http://twitter.com/GSUTechnology" target="_blank"><span class="footer-twitter"></span></a>
+	     <a href="https://www.linkedin.com/edu/georgia-state-university-18163" target="_blank"><span class="footer-linkedin"></span></a>
+	     <a href="http://instagram.com/georgiastateuniversity" target="_blank"><span class="footer-instagram"></span></a>
+	     <a href="https://www.flickr.com/photos/georgiastate" target="_blank"><span class="footer-flickr"></span></a>
+	     <a href="https://www.youtube.com/channel/UCpDtOZmGitIVXytVrjJL7LQ" target="_blank"><span class="footer-youtube"></span></a>
+	     <a href="http://vimeo.com/georgiastate" target="_blank"><span class="footer-vimeo"></span></a>
+	   </div>
+	   <div class="footer-address">
+	     <span>Georgia State University</span><span><br/><a href="http://map.gsu.edu/#/building/Sparks-Hall">33 Gilmer Street SE Atlanta, GA</a></span>  | <span><a href="tel:+14044132000">404-413-2000</a></span>
+	   </div>
+	   <div class="footer-legal">
+	   	<a href="http://www.gsu.edu/contact-georgia-state/" target="_blank">Contact Georgia State</a> | 
+	   	<a href="http://www.gsu.edu/legal-statement" target="_blank">View legal statement</a> | 
+	   	<a href="https://app.gsu.edu/policies/index.cfm?view_policy=5871" target="_blank">Privacy Statement</a> | 
+	   	<a href="http://gsu.edu/state-authorization" target="_blank">State Authorization</a><br/>
+	   	<span style="color:#FFF;">©2017 Georgia State University</span></div>
+</div>
