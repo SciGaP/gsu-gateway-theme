@@ -1,4 +1,6 @@
-<div class="container-fluid gsu-background-color text-center gsu-footer">
+<div class="container-fluid gsu-background-color gsu-footer">	
+
+	<div class="col-md-offset-2 col-md-5">
 
        <div class="footer-logo"><span><img src="http://technology.gsu.edu/wp-content/themes/gsu-core/img/logo-footer.png" alt="Georgia State University"></span></div>
 	   <div class="footer-social">
@@ -19,4 +21,9 @@
 	   	<a href="https://app.gsu.edu/policies/index.cfm?view_policy=5871" target="_blank">Privacy Statement</a> | 
 	   	<a href="http://gsu.edu/state-authorization" target="_blank">State Authorization</a><br/>
 	   	<span style="color:#FFF;">©2017 Georgia State University</span></div>
+	</div>
+
+	<div class="col-md-3">
+		<img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-airavata-transparent.png"/>
+	</div>
 </div>
