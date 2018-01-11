@@ -14,10 +14,10 @@ attention to featured content or information.</h2>
 	<div class="row">
 		<div class="col-md-6">
 			<p><strong>Blue Cluster</strong> (Originally known as Orion)</p>
-			<!-- Please use img-responsive instead of img-fluid if your bootstrap version if <4.0 -->
-			<img class="center-image img-fluid" src="/assets/img/orion.png">
+			<!-- Please use img-fluid instead of img-responsive if your bootstrap version if >=4.0 -->
+			<img class="center-image img-responsive" src="/assets/img/orion.png">
 			<p class="vertical-space"></p>
-			<img class="center-image img-fluid" src="/assets/img/Architecture-Orion.png">
+			<img class="center-image img-responsive" src="/assets/img/Architecture-Orion.png">
 			<p class="vertical-space"></p>
 			<p><strong>Blue&nbsp;</strong><span>cluster is comprised of six IBM System x3850 X5 Servers,&nbsp; two Dell PowerEdge R720, one Silicon Mechanics SuperServer 8027R-TRF, and two Silicon Mechanics R331.v6 servers.&nbsp;</span><span>Schedule and process Linux jobs rapidly using LSF in batch mode as well as being able to use an interactive queue.</span><span>&nbsp;Specifications are as follows:</span></p>
 
@@ -80,9 +80,9 @@ attention to featured content or information.</h2>
 		-->
 		<div class="col-md-6">
 			<p><strong>CDER Cluster</strong></p>
-			<img class="center-image img-fluid " src="/assets/img/cder.png">
+			<img class="center-image img-responsive " src="/assets/img/cder.png">
 			<p class="vertical-space"></p>
-			<img class="center-image img-fluid" src="/assets/img/Architecture-CDER.png">
+			<img class="center-image img-responsive" src="/assets/img/Architecture-CDER.png">
 			<p class="vertical-space"></p>
 			<p><strong>CDER</strong>&nbsp;cluster is an NSF funded cluster through Award CNS-1205650 "Collaborative Research: CI-ADOO-NEW: Parallel and Distributed Computing Curriculum Development and Educational Resources. &nbsp;This heterogeneous 14 node cluster features 280 cores, 1 TB of RAM, and two GPUs that are able to sustain a mixed user workload that is facilitated by SLURM scheduler. &nbsp;&nbsp;</p>
 
