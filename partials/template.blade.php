@@ -15,7 +15,7 @@ attention to featured content or information.</h2>
 		<div class="col-md-6">
 			<p><strong>Blue Cluster</strong> (Originally known as Orion)</p>
 			<!-- Please use img-fluid instead of img-responsive if your bootstrap version if >=4.0 -->
-			<img class="center-image img-responsive" src="/assets/img/orion.png">
+			<img class="center-image img-responsive" src="http://hpcstatsprd01.rs.gsu.edu/ganglia/graph.php?c=ORION&m=load_one&r=hour&s=by%20name&hc=4&mc=2&st=1449157145&g=load_report&z=medium&r=hour">
 			<p class="vertical-space"></p>
 			<img class="center-image img-responsive" src="/assets/img/Architecture-Orion.png">
 			<p class="vertical-space"></p>
@@ -80,7 +80,7 @@ attention to featured content or information.</h2>
 		-->
 		<div class="col-md-6">
 			<p><strong>CDER Cluster</strong></p>
-			<img class="center-image img-responsive " src="/assets/img/cder.png">
+			<img class="center-image img-responsive " src="http://hpcstats.rs.gsu.edu/ganglia/graph.php?c=CDER&m=load_one&r=hour&s=by%20name&hc=4&mc=2&st=1485988589&g=load_report&z=medium&r=hour">
 			<p class="vertical-space"></p>
 			<img class="center-image img-responsive" src="/assets/img/Architecture-CDER.png">
 			<p class="vertical-space"></p>
