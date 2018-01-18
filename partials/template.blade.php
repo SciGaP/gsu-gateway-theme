@@ -1,14 +1,5 @@
 <!-- This template requires bootstrap and style.css file to properly render. Make sure the parent file of this partial has bootstrap and assets/css/style.css included -->
 
-<div class="col-md-12 ts-top-banner">
-<!--
-<h1>Hero Image</h1>
-<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
-attention to featured content or information.</h2>
-<p><a class="btn btn-primary btn-large">Learn more</a></p>
--->
-</div>
-
 <div class="col-md-12 breathing-space">
 
 	<div class="row">
